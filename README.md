@@ -1,2 +1,3 @@
 # Connect Four
- Recreated the classic Connect Four game in Java. This is a personal project made to understand how to create a GUI using Java.
+* This a recreation of the classic Connect Four game made using in Java
+* Created for as personal project so I could learn about GUIs and how to use mouse input in Java
